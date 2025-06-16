@@ -93,3 +93,36 @@
 2025-06-16 19:02:15,187 - app - INFO - Streaming final answer for session_id: 9ca78b85-28e5-4915-974e-e86b70673410
 2025-06-16 19:03:00,488 - app - INFO - Main agent has been compiled successfully.
 2025-06-16 19:03:16,446 - app - INFO - Main agent has been compiled successfully.
+2025-06-16 19:03:52,296 - app - INFO - === QUERY STREAM ENDPOINT HIT ===
+2025-06-16 19:03:52,296 - app - INFO - Session ID: d5fef37d-a344-444f-b968-dcb7de0d0b16
+2025-06-16 19:03:52,297 - app - INFO - Query: Do you know something about an immunotherapy something program?
+2025-06-16 19:03:52,297 - app - INFO - API Key received: lyfegen-ai-task-2024
+2025-06-16 19:03:52,297 - app - INFO - File: None
+2025-06-16 19:03:52,297 - app - INFO - API key validated successfully
+2025-06-16 19:03:52,297 - app - INFO - Received query for session_id: d5fef37d-a344-444f-b968-dcb7de0d0b16
+2025-06-16 19:03:52,301 - app - INFO - Streaming agent response for session_id: d5fef37d-a344-444f-b968-dcb7de0d0b16
+2025-06-16 19:03:52,306 - app - INFO - Streaming status update: Running: summarize_discussion
+2025-06-16 19:03:52,306 - app - INFO - Summarizing conversation history.
+2025-06-16 19:03:52,307 - app - INFO - Summarizing conversation history.
+2025-06-16 19:03:54,352 - app - INFO - Streaming status update: Running: retrieve_relevant_chunks
+2025-06-16 19:03:55,169 - app - INFO - Streaming status update: Running: summarize_discussion
+2025-06-16 19:03:55,169 - app - INFO - Summarizing conversation history.
+2025-06-16 19:03:55,170 - app - INFO - Summarizing conversation history.
+2025-06-16 19:04:12,580 - app - INFO - Streaming final answer for session_id: d5fef37d-a344-444f-b968-dcb7de0d0b16
+2025-06-16 19:31:31,484 - app - INFO - Main agent has been compiled successfully.
+2025-06-16 19:31:48,352 - app - INFO - === QUERY STREAM ENDPOINT HIT ===
+2025-06-16 19:31:48,352 - app - INFO - Session ID: a1d10875-41a3-4f7c-8cb5-d6c4a9e18a88
+2025-06-16 19:31:48,352 - app - INFO - Query: Do you know something about an immunotherapy something program?
+2025-06-16 19:31:48,353 - app - INFO - API Key received: lyfegen-ai-task-2024
+2025-06-16 19:31:48,353 - app - INFO - File: None
+2025-06-16 19:31:48,353 - app - INFO - API key validated successfully
+2025-06-16 19:31:48,353 - app - INFO - Received query for session_id: a1d10875-41a3-4f7c-8cb5-d6c4a9e18a88
+2025-06-16 19:31:48,357 - app - INFO - Streaming agent response for session_id: a1d10875-41a3-4f7c-8cb5-d6c4a9e18a88
+2025-06-16 19:31:48,362 - app - INFO - Streaming status update: Running: summarize_discussion
+2025-06-16 19:31:48,362 - app - INFO - Summarizing conversation history.
+2025-06-16 19:31:48,362 - app - INFO - Summarizing conversation history.
+2025-06-16 19:31:51,674 - app - INFO - Streaming status update: Running: retrieve_relevant_chunks
+2025-06-16 19:31:52,964 - app - INFO - Streaming status update: Running: summarize_discussion
+2025-06-16 19:31:52,964 - app - INFO - Summarizing conversation history.
+2025-06-16 19:31:52,965 - app - INFO - Summarizing conversation history.
+2025-06-16 19:32:06,126 - app - INFO - Streaming final answer for session_id: a1d10875-41a3-4f7c-8cb5-d6c4a9e18a88
