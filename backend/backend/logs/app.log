@@ -63,3 +63,33 @@
 2025-06-16 18:53:12,361 - app - INFO - Summarizing conversation history.
 2025-06-16 18:53:12,362 - app - INFO - Summarizing conversation history.
 2025-06-16 18:53:24,088 - app - INFO - Streaming final answer for session_id: 1b71f9cc-81e8-484e-961e-210e6b6b02fb
+2025-06-16 19:01:23,008 - app - INFO - === QUERY STREAM ENDPOINT HIT ===
+2025-06-16 19:01:23,009 - app - INFO - Session ID: 1b71f9cc-81e8-484e-961e-210e6b6b02fb
+2025-06-16 19:01:23,009 - app - INFO - Query: Do you know something about an immunotherapy something program?
+2025-06-16 19:01:23,009 - app - INFO - API Key received: lyfegen-ai-task-2024
+2025-06-16 19:01:23,009 - app - INFO - File: None
+2025-06-16 19:01:23,009 - app - INFO - API key validated successfully
+2025-06-16 19:01:23,009 - app - INFO - Received query for session_id: 1b71f9cc-81e8-484e-961e-210e6b6b02fb
+2025-06-16 19:01:23,010 - app - INFO - Streaming agent response for session_id: 1b71f9cc-81e8-484e-961e-210e6b6b02fb
+2025-06-16 19:01:23,012 - app - INFO - Streaming status update: Running: summarize_discussion
+2025-06-16 19:01:23,012 - app - INFO - Summarizing conversation history.
+2025-06-16 19:01:23,013 - app - INFO - Summarizing conversation history.
+2025-06-16 19:01:35,945 - app - INFO - Streaming final answer for session_id: 1b71f9cc-81e8-484e-961e-210e6b6b02fb
+2025-06-16 19:01:55,160 - app - INFO - === QUERY STREAM ENDPOINT HIT ===
+2025-06-16 19:01:55,160 - app - INFO - Session ID: 9ca78b85-28e5-4915-974e-e86b70673410
+2025-06-16 19:01:55,160 - app - INFO - Query: Do you know something about an immunotherapy something program?
+2025-06-16 19:01:55,160 - app - INFO - API Key received: lyfegen-ai-task-2024
+2025-06-16 19:01:55,161 - app - INFO - File: None
+2025-06-16 19:01:55,161 - app - INFO - API key validated successfully
+2025-06-16 19:01:55,161 - app - INFO - Received query for session_id: 9ca78b85-28e5-4915-974e-e86b70673410
+2025-06-16 19:01:55,161 - app - INFO - Streaming agent response for session_id: 9ca78b85-28e5-4915-974e-e86b70673410
+2025-06-16 19:01:55,163 - app - INFO - Streaming status update: Running: summarize_discussion
+2025-06-16 19:01:55,163 - app - INFO - Summarizing conversation history.
+2025-06-16 19:01:55,164 - app - INFO - Summarizing conversation history.
+2025-06-16 19:01:57,510 - app - INFO - Streaming status update: Running: retrieve_relevant_chunks
+2025-06-16 19:01:58,272 - app - INFO - Streaming status update: Running: summarize_discussion
+2025-06-16 19:01:58,272 - app - INFO - Summarizing conversation history.
+2025-06-16 19:01:58,273 - app - INFO - Summarizing conversation history.
+2025-06-16 19:02:15,187 - app - INFO - Streaming final answer for session_id: 9ca78b85-28e5-4915-974e-e86b70673410
+2025-06-16 19:03:00,488 - app - INFO - Main agent has been compiled successfully.
+2025-06-16 19:03:16,446 - app - INFO - Main agent has been compiled successfully.
