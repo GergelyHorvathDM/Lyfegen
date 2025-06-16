@@ -1,0 +1,25 @@
+# FastAPI and web server
+fastapi
+uvicorn[standard]
+pydantic-settings
+python-multipart
+
+# LangChain and related libraries
+langchain
+langgraph
+langchain-openai
+langchain-community
+pypdf
+
+# Vector Database
+chromadb
+langchain-chroma
+
+# PostgreSQL
+psycopg2-binary
+asyncpg
+SQLAlchemy
+python-dotenv
+
+# Testing
+pytest 
