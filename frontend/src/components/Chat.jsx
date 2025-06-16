@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useRef } from 'react';
-import { Paperclip, Send, Bot, User, Settings, Check, X, File as FileIcon, Loader, Star, Copy, ThumbsUp, ThumbsDown } from 'lucide-react';
+import { Paperclip, Send, Bot, User, Settings, Check, X, File as FileIcon, Loader } from 'lucide-react';
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
 import { v4 as uuidv4 } from 'uuid';
